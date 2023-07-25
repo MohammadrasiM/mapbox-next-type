@@ -1,0 +1,5 @@
+export const GENERAL_CACHE_DURATION = 1000 * 60 * 1
+export const ONE_MINUTE_CACHE_DURATION = 1000 * 60 * 1 
+export const FIVE_MINUTE_CACHE_DURATION = 1000 * 60 * 5 
+export const ONE_HOUR_CACHE_DURATION = 1000 * 60 * 60 
+export const ONE_DAY_CACHE_DURATION = 1000 * 60 * 60 * 24

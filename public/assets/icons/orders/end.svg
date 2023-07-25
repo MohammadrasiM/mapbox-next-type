@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.23" height="38.381" viewBox="0 0 74.23 38.381">
+  <defs>
+    <filter id="Rectangle_2946" x="44.23" y="1" width="30" height="30" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_13955" data-name="Group 13955" transform="translate(-246.6 -150.919)">
+    <g id="Rectangle_2947" data-name="Rectangle 2947" transform="translate(246.6 151.553)" fill="#fff" stroke="#e2e8f0" stroke-width="1">
+      <rect width="72.556" height="25.731" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="71.556" height="24.731" rx="7.5" fill="none"/>
+    </g>
+    <text id="مقصد" transform="translate(271.877 168.419)" fill="#1e293b" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="-20.711" y="0">مقصد</tspan></text>
+    <g id="Group_4378" data-name="Group 4378" transform="translate(104.83 -157.081)">
+      <line id="Line_497" data-name="Line 497" y2="20.923" transform="translate(201.001 324.458)" fill="none" stroke="#1e293b" stroke-linecap="round" stroke-width="2"/>
+      <g id="Rectangle_2945" data-name="Rectangle 2945" transform="translate(188 308)" fill="#f3722c" stroke="#e2e8f0" stroke-width="1">
+        <rect width="26" height="26" rx="8" stroke="none"/>
+        <rect x="0.5" y="0.5" width="25" height="25" rx="7.5" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 141.77, 308)" filter="url(#Rectangle_2946)">
+        <rect id="Rectangle_2946-2" data-name="Rectangle 2946" width="12" height="12" rx="3" transform="translate(53.23 7)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
